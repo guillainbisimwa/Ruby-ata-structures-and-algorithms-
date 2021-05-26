@@ -23,3 +23,9 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 ### 3. Longest Substring Without Repeating Characters [source](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 Given a string s, find the length of the longest substring without repeating characters.
+
+### 3. 3Sum [source](https://leetcode.com/problems/3sum/)
+
+Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j, i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
+
+Notice that the solution set must not contain duplicate triplets.
