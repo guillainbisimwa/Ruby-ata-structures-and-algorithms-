@@ -30,7 +30,7 @@ Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]
 
 Notice that the solution set must not contain duplicate triplets.
 
-### 5. Best Time to Buy and Sell Stock
+### 5. Best Time to Buy and Sell Stock [source](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 You are given an array prices where `prices[i]` is the price of a given stock on the ith day.
 
@@ -38,7 +38,7 @@ You want to maximize your profit by choosing a single day to buy one stock and c
 
 Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, `return 0`.
 
-### 6. Best Time to Buy and Sell Stock with Cooldown
+### 6. Best Time to Buy and Sell Stock with Cooldown [source](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 
 You are given an array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
 
@@ -48,6 +48,6 @@ Find the maximum profit you can achieve. You may complete as many transactions a
 
 **_Note:_** You may not engage in multiple transactions simultaneously (i.e., you must sell the stock before you buy again).
 
-### 7. Binary Tree Inorder Traversal
+### 7. Binary Tree Inorder Traversal [source](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 
 Given the root of a binary tree, return the inorder traversal of its nodes' values.
