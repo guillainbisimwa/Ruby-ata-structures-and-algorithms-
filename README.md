@@ -47,3 +47,7 @@ Find the maximum profit you can achieve. You may complete as many transactions a
 - After you sell your stock, you cannot buy stock on the next day (i.e., cooldown one day).
 
 **_Note:_** You may not engage in multiple transactions simultaneously (i.e., you must sell the stock before you buy again).
+
+### 7. Binary Tree Inorder Traversal
+
+Given the root of a binary tree, return the inorder traversal of its nodes' values.
