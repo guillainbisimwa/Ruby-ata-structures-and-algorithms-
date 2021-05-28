@@ -24,8 +24,16 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 Given a string s, find the length of the longest substring without repeating characters.
 
-### 3. 3Sum [source](https://leetcode.com/problems/3sum/)
+### 4. 3Sum [source](https://leetcode.com/problems/3sum/)
 
 Given an integer array nums, return all the triplets `[nums[i], nums[j], nums[k]]` such that `i != j, i != k`, and `j != k`, and `nums[i] + nums[j] + nums[k] == 0`.
 
 Notice that the solution set must not contain duplicate triplets.
+
+### 5. Best Time to Buy and Sell Stock
+
+You are given an array prices where `prices[i]` is the price of a given stock on the ith day.
+
+You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.
+
+Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, `return 0`.
