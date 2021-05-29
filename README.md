@@ -50,4 +50,4 @@ Find the maximum profit you can achieve. You may complete as many transactions a
 
 ### 7. Binary Tree Inorder Traversal [source](https://leetcode.com/problems/binary-tree-inorder-traversal/)
 
-Given the root of a binary tree, return the inorder traversal of its nodes' values.
+Given the `root` of a binary tree, return the inorder traversal of its nodes' values.
