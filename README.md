@@ -9,6 +9,8 @@ tags: []
 
 LeetCode offers a lot of challenges that are often asked by large companies such as Google or Microsoft. Working on LeetCode challenges is a great way to practice applying algorithms & data structures concepts to some fun challenges.
 
+The goal af this repository is to complete as many challenges from [this](https://leetcode.com/problemset/top-100-liked-questions/) collection of popular challenges in LeetCode .
+
 ### 1. TWO SUM [source](https://leetcode.com/problems/two-sum)
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
