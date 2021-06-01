@@ -65,3 +65,31 @@ A path in a binary tree is a sequence of nodes where each pair of adjacent nodes
 The path sum of a path is the sum of the node's values in the path.
 
 Given the `root` of a binary tree, return the maximum path sum of any path.
+
+## Author
+
+👤 **Guillain Bisimwa**
+
+- Github : [@guillainbisimwa](https://github.com/guillainbisimwa)
+- Twitter : [@gullain_bisimwa](https://twitter.com/gullain_bisimwa)
+- Linkedin : [guillain-bisimwa](https://www.linkedin.com/in/guillain-bisimwa-8a8b7a7b/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/guillainbisimwa/Ruby-ata-structures-and-algorithms-/issues).
+
+## Acknowledgments
+
+- [Microverse](https://www.microverse.org/)
+- [leetcode](https://leetcode.com/)
+- [techiedelight](https://www.techiedelight.com/)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
