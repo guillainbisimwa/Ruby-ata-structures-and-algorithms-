@@ -9,7 +9,7 @@ tags: []
 
 LeetCode offers a lot of challenges that are often asked by large companies such as Google or Microsoft. Working on LeetCode challenges is a great way to practice applying algorithms & data structures concepts to some fun challenges.
 
-The goal af this repository is to complete as many challenges from [this](https://leetcode.com/problemset/top-100-liked-questions/) collection of popular challenges in LeetCode .
+The goal of this repository is to complete as many challenges from [this](https://leetcode.com/problemset/top-100-liked-questions/) collection of popular challenges in LeetCode.
 
 ### 1. TWO SUM [source](https://leetcode.com/problems/two-sum)
 
@@ -65,6 +65,12 @@ A path in a binary tree is a sequence of nodes where each pair of adjacent nodes
 The path sum of a path is the sum of the node's values in the path.
 
 Given the `root` of a binary tree, return the maximum path sum of any path.
+
+### 10. Climbing Stairs [source](https://leetcode.com/problems/climbing-stairs/)
+
+You are climbing a staircase. It takes `n` steps to reach the top.
+
+Each time you can either climb `1` or `2` steps. In how many distinct ways can you climb to the top?
 
 ## Author
 
