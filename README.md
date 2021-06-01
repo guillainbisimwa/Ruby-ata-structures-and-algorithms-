@@ -72,6 +72,14 @@ You are climbing a staircase. It takes `n` steps to reach the top.
 
 Each time you can either climb `1` or `2` steps. In how many distinct ways can you climb to the top?
 
+### 11. Coin Change [source](https://leetcode.com/problems/coin-change/)
+
+You are given an integer array coins representing `coins` of different denominations and an integer `amount` representing a total amount of money.
+
+Return the fewest number of coins that you need to make up that amount. If that amount of money cannot be made up by any combination of the coins, return `-1`.
+
+You may assume that you have an infinite number of each kind of coin.
+
 ## Author
 
 👤 **Guillain Bisimwa**
