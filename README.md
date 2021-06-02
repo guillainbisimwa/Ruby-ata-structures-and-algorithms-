@@ -114,6 +114,14 @@ You may assume that the input string is always valid; No extra white spaces, squ
 
 Furthermore, you may assume that the original data does not contain any digits and that digits are only for those repeat numbers, `k`. For example, there won't be input like `3a` or `2[4]`.
 
+### 17. Diameter of Binary Tree [source](https://leetcode.com/problems/diameter-of-binary-tree/)
+
+Given the `root` of a binary tree, return the length of the diameter of the tree.
+
+The diameter of a binary tree is the length of the longest path between any two nodes in a tree. This path may or may not pass through the `root`.
+
+The length of a path between two nodes is represented by the number of edges between them.
+
 ## Author
 
 👤 **Guillain Bisimwa**
