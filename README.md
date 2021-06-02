@@ -98,13 +98,21 @@ Notice that you may not slant the container.
 
 Given an integer `n`, return an array `ans` of length `n + 1` such that for each `i (0 <= i <= n)`, `ans[i]` is the number of `1`'s in the binary representation of `i`.
 
-### 15. Course Schedule [source](https://leetcode.com/problems/course-schedule/)
+### 15. Course Schedule [!] [source](https://leetcode.com/problems/course-schedule/)
 
 There are a total of `numCourses` courses you have to take, labeled from `0` to `numCourses - 1`. You are given an array prerequisites where `prerequisites[i] = [ai, bi]` indicates that you must take course `bi` first if you want to take course `ai`.
 
 - For example, the pair `[0, 1]`, indicates that to take course `0` you have to first take course `1`.
 
 Return `true` if you can finish all courses. Otherwise, return `false`.
+
+### 16. Decode String [source](https://leetcode.com/problems/decode-string/)
+
+The encoding rule is: `k[encoded_string]`, where the `encoded_string` inside the square brackets is being repeated exactly `k` times. Note that `k` is guaranteed to be a positive integer.
+
+You may assume that the input string is always valid; No extra white spaces, square brackets are well-formed, etc.
+
+Furthermore, you may assume that the original data does not contain any digits and that digits are only for those repeat numbers, `k`. For example, there won't be input like `3a` or `2[4]`.
 
 ## Author
 
