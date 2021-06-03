@@ -132,6 +132,10 @@ You have the following three operations permitted on a word:
 - Delete a character
 - Replace a character
 
+### 19. Find All Anagrams in a String [source](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+
+Given two strings `s` and `p`, return an array of all the start indices of `p`'s anagrams in `s`. You may return the answer in any order.
+
 ## Author
 
 👤 **Guillain Bisimwa**
