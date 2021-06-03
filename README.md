@@ -122,6 +122,16 @@ The diameter of a binary tree is the length of the longest path between any two 
 
 The length of a path between two nodes is represented by the number of edges between them.
 
+### 18. Edit Distance [source](https://leetcode.com/problems/edit-distance/)
+
+Given two strings `word1` and `word2`, return the minimum number of operations required to convert `word1` to `word2`.
+
+You have the following three operations permitted on a word:
+
+- Insert a character
+- Delete a character
+- Replace a character
+
 ## Author
 
 👤 **Guillain Bisimwa**
