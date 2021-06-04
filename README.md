@@ -136,6 +136,10 @@ You have the following three operations permitted on a word:
 
 Given two strings `s` and `p`, return an array of all the start indices of `p`'s anagrams in `s`. You may return the answer in any order.
 
+### 20. Find All Numbers Disappeared in an Array [source](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+
+Given an array `nums` of n integers where `nums[i]` is in the range `[1, n]`, return an array of all the integers in the range `[1, n]` that do not appear in `nums`.
+
 ## Author
 
 👤 **Guillain Bisimwa**
